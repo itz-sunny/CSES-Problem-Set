@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 /**
- * https://cses.fi/problemset/task/1083
+ * @see <a href=https://cses.fi/problemset/task/1083>Missing Number</a>
  */
 class MissingNumber {
     public static void main(String[] args) {
