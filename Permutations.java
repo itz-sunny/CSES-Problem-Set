@@ -2,7 +2,7 @@ import java.util.Random;
 import java.util.Scanner;
 
 /**
- * @see <a href=https://cses.fi/problemset/task/1070>Permutations</a>
+ * <a href=https://cses.fi/problemset/task/1070>Permutations</a>
  */
 public class Permutations {
     public static void main(String[] args) {

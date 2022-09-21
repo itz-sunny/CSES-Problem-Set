@@ -1,9 +1,9 @@
 import java.util.Scanner;
 
 /**
- * @see <a href=https://cses.fi/problemset/task/1094>Increasing Array</a>
+ * <a href=https://cses.fi/problemset/task/1094>Increasing Array</a>
  */
-public class IncreasingArray {
+class IncreasingArray {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int n = sc.nextInt(), prev = sc.nextInt(), cur = 0;

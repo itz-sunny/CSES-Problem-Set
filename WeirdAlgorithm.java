@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 /**
- * @see <a href=https://cses.fi/problemset/task/1068>Weird Algorithm</a>
+ * <a href=https://cses.fi/problemset/task/1068>Weird Algorithm</a>
  */
 public class WeirdAlgorithm {
     public static void main(String[] args) {
