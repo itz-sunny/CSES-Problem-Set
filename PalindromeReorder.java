@@ -1,5 +1,4 @@
 import java.io.*;
-import java.util.Arrays;
 
 /**
  * <a href=https://cses.fi/problemset/task/1755>Palindrome Reorder</a>
